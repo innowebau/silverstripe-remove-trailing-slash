@@ -1,7 +1,7 @@
 # Silverstripe Remove Trailing Slash
 
-[![Version](http://img.shields.io/packagist/v/innoweb/silverstripe-remove-trailing-slash.svg?style=flat-square)](https://packagist.org/packages/silverstripe-remove-trailing-slash)
-[![License](http://img.shields.io/packagist/l/silverstripe-remove-trailing-slash.svg?style=flat-square)](license.md)
+[![Version](http://img.shields.io/packagist/v/innoweb/silverstripe-remove-trailing-slash.svg?style=flat-square)](https://packagist.org/packages/innoweb/silverstripe-remove-trailing-slash)
+[![License](http://img.shields.io/packagist/l/innoweb/silverstripe-remove-trailing-slash.svg?style=flat-square)](license.md)
 
 ## Overview
 
