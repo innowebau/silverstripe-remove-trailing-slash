@@ -1,0 +1,26 @@
+{
+  "name": "innoweb/silverstripe-remove-trailing-slash",
+  "type": "silverstripe-vendormodule",
+  "description": "Removes the trailing slash from page links.",
+  "license": "BSD-3-Clause",
+  "keywords": ["silverstripe", "SEO", "trailing slash"],
+  "homepage": "https://github.com/innowebau/silverstripe-remove-trailing-slash",
+  "support": {
+    "issues": "https://github.com/innowebau/silverstripe-remove-trailing-slash/issues"
+  },
+  "authors": [{
+    "name": "Florian Thoma",
+    "homepage": "https://www.innoweb.com.au"
+  }],
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/cms": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Innoweb\\RemoveTrailingSlash\\": "src/"
+    }
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

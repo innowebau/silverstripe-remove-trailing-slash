@@ -1,0 +1,7 @@
+---
+Name: force-trailing-slash
+---
+
+SilverStripe\Core\Injector\Injector:
+  SilverStripe\CMS\Forms\SiteTreeURLSegmentField:
+    class: Innoweb\ForceTrailingSlash\SiteTreeURLSegmentField
