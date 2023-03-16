@@ -13,6 +13,8 @@ SiteTree is the only class in Silverstripe that adds trailing slashes to links. 
 
 * Silverstripe CMS 4.x
 
+The changes from this module have been folded into core for Silverstripe 5, see [2780](https://github.com/silverstripe/silverstripe-cms/issues/2780). 
+
 ## Installation
 
 Install the module using composer:
